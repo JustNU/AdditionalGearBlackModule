@@ -1,0 +1,622 @@
+{
+    "manifest": [
+		{
+            "key": "AddGearBlack/ArmoredVests/6b13_black.bundle",
+            "dependencyKeys": [
+                "cubemaps",
+				"assets/content/items/equipment/armor_6b13/item_equipment_armor_6b13_gloss_nrm",
+                "shaders",
+				"assets/commonassets/physics/physicsmaterials.bundle",
+				"assets/content/characters/character/vest/ar_6b13_mesh"
+            ]
+        },
+		{
+            "key": "AddGearBlack/ArmoredVests/6b13m_black.bundle",
+            "dependencyKeys": [
+                "cubemaps",
+				"assets/content/items/equipment/armor_6b13/item_equipment_armor_6b13_gloss_nrm",
+                "shaders",
+				"assets/commonassets/physics/physicsmaterials.bundle",
+				"assets/content/characters/character/vest/ar_6b13_mesh"
+            ]
+        },
+		{
+            "key": "AddGearBlack/ArmoredVests/redutm_black.bundle",
+            "dependencyKeys": [
+                "cubemaps",
+                "shaders",
+				"assets/commonassets/physics/physicsmaterials.bundle",
+				"assets/content/characters/character/skeleton.bundle"
+            ]
+        },
+		{
+            "key": "AddGearBlack/ArmoredVests/def2_black.bundle",
+            "dependencyKeys": [
+                "cubemaps",
+                "shaders",
+				"assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        },
+		{
+            "key": "AddGearBlack/ArmoredVests/gjel_black.bundle",
+            "dependencyKeys": [
+                "cubemaps",
+                "shaders",
+				"assets/commonassets/physics/physicsmaterials.bundle",
+				"assets/content/characters/character/skeleton.bundle"
+            ]
+        },
+		{
+            "key": "AddGearBlack/ArmoredVests/redutt5_black.bundle",
+            "dependencyKeys": [
+                "cubemaps",
+                "shaders",
+				"assets/commonassets/physics/physicsmaterials.bundle",
+				"assets/content/characters/character/skeleton.bundle"
+            ]
+        },
+		{
+            "key": "AddGearBlack/ArmoredVests/trooper_black.bundle",
+            "dependencyKeys": [
+                "cubemaps",
+                "shaders",
+				"assets/commonassets/physics/physicsmaterials.bundle",
+				"assets/content/characters/character/skeleton.bundle"
+            ]
+        },
+		{
+            "key": "AddGearBlack/ArmoredVests/trooper_black_clean.bundle",
+            "dependencyKeys": [
+                "cubemaps",
+                "shaders",
+				"assets/commonassets/physics/physicsmaterials.bundle",
+				"assets/content/characters/character/skeleton.bundle"
+            ]
+        },
+		{
+            "key": "AddGearBlack/Backpacks/daypack_black.bundle",
+            "dependencyKeys": [
+                "cubemaps",
+                "shaders",
+				"assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        },
+		{
+            "key": "AddGearBlack/Backpacks/beta2_black.bundle",
+            "dependencyKeys": [
+                "cubemaps",
+                "shaders",
+				"assets/commonassets/physics/physicsmaterials.bundle",
+				"assets/content/characters/character/skeleton.bundle"
+            ]
+        },
+		{
+            "key": "AddGearBlack/Backpacks/mbss_black.bundle",
+            "dependencyKeys": [
+                "cubemaps",
+                "shaders",
+				"assets/commonassets/physics/physicsmaterials.bundle",
+				"assets/content/characters/character/skeleton.bundle"
+            ]
+        },
+		{
+            "key": "AddGearBlack/Backpacks/paratus_black.bundle",
+            "dependencyKeys": [
+                "cubemaps",
+                "shaders",
+				"assets/commonassets/physics/physicsmaterials.bundle",
+				"assets/content/characters/character/skeleton.bundle"
+            ]
+        },
+		{
+            "key": "AddGearBlack/Backpacks/trizip_black.bundle",
+            "dependencyKeys": [
+                "cubemaps",
+                "shaders",
+				"assets/commonassets/physics/physicsmaterials.bundle",
+				"assets/content/characters/character/skeleton.bundle"
+            ]
+        },
+		{
+            "key": "AddGearBlack/Backpacks/f4terminator_black.bundle",
+            "dependencyKeys": [
+                "cubemaps",
+                "shaders",
+				"assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        },
+		{
+            "key": "AddGearBlack/Backpacks/f5switchblade_black.bundle",
+            "dependencyKeys": [
+                "cubemaps",
+                "shaders",
+				"assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        },
+		{
+            "key": "AddGearBlack/ArmoredVests/6b23_black.bundle",
+            "dependencyKeys": [
+                "cubemaps",
+                "shaders",
+				"assets/content/items/equipment/armor_6b23/item_equipment_armor_6b23_gloss_nrm",
+				"assets/commonassets/physics/physicsmaterials.bundle",
+				"assets/content/characters/character/vest/ar_6b23_mesh"
+            ]
+        },
+		{
+            "key": "AddGearBlack/ArmoredVests/gen4_black_textures.bundle",
+            "dependencyKeys": []
+        },
+		{
+            "key": "AddGearBlack/ArmoredVests/gen4_black_mesh_1.bundle",
+            "dependencyKeys": [
+                "cubemaps",
+				"AddGearBlack/ArmoredVests/gen4_black_textures.bundle",
+                "shaders",
+				"assets/commonassets/physics/physicsmaterials.bundle",
+				"assets/content/characters/character/skeleton.bundle"
+            ]
+        },
+		{
+            "key": "AddGearBlack/ArmoredVests/gen4_black_mesh_2.bundle",
+            "dependencyKeys": [
+                "cubemaps",
+				"AddGearBlack/ArmoredVests/gen4_black_textures.bundle",
+                "shaders",
+				"assets/commonassets/physics/physicsmaterials.bundle",
+				"assets/content/characters/character/skeleton.bundle"
+            ]
+        },
+		{
+            "key": "AddGearBlack/ArmoredVests/gen4_black_mesh_3.bundle",
+            "dependencyKeys": [
+                "cubemaps",
+				"AddGearBlack/ArmoredVests/gen4_black_textures.bundle",
+                "shaders",
+				"assets/commonassets/physics/physicsmaterials.bundle",
+				"assets/content/characters/character/skeleton.bundle"
+            ]
+        },
+		{
+            "key": "AddGearBlack/ArmoredVests/untarvest_black.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+				"assets/commonassets/physics/physicsmaterials.bundle",
+				"assets/content/characters/character/skeleton.bundle"
+            ]
+        },
+		{
+            "key": "AddGearBlack/Headgear/6b47covered_black.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+				"assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        },
+		{
+            "key": "AddGearBlack/Headgear/altyn_textures_black.bundle",
+            "dependencyKeys": []
+        },
+		{
+            "key": "AddGearBlack/Headgear/altyn_black.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+				"AddGearBlack/Headgear/altyn_textures_black.bundle",
+				"assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        },
+		{
+            "key": "AddGearBlack/MiscGear/altyn_shield_black.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+				"AddGearBlack/Headgear/altyn_textures_black.bundle",
+				"assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        },
+		{
+            "key": "AddGearBlack/Headgear/head_bandana_black.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+				"assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        },
+		{
+            "key": "AddGearBlack/Headgear/ops_core_rails_black.bundle",
+            "dependencyKeys": []
+        },
+		{
+            "key": "AddGearBlack/Headgear/airframe_black.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+				"AddGearBlack/Headgear/ops_core_rails_black.bundle",
+				"assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        },
+		{
+            "key": "AddGearBlack/Headgear/mich2001_black.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+				"assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        },
+		{
+            "key": "AddGearBlack/Headgear/mich2002_black.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+				"assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        },
+		{
+            "key": "AddGearBlack/Headgear/maska_1sh_black_textures.bundle",
+            "dependencyKeys": []
+        },
+		{
+            "key": "AddGearBlack/Headgear/maska_1sh_black_mesh.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+				"AddGearBlack/Headgear/maska_1sh_black_textures.bundle",
+				"assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        },
+		{
+            "key": "AddGearBlack/MiscGear/maska_1sh_black_shield.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+				"AddGearBlack/Headgear/maska_1sh_black_textures.bundle",
+				"assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        },
+		{
+            "key": "AddGearBlack/Headgear/untarhelmet_diff_black.bundle",
+            "dependencyKeys": []
+        },
+		{
+            "key": "AddGearBlack/Headgear/untarhelmet_gloss_black.bundle",
+            "dependencyKeys": []
+        },
+		{
+            "key": "AddGearBlack/Headgear/untarhelmet_nrm_black.bundle",
+            "dependencyKeys": []
+        },
+		{
+            "key": "AddGearBlack/Headgear/untarhelmet_materials_black.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+				"AddGearBlack/Headgear/untarhelmet_gloss_black.bundle",
+				"AddGearBlack/Headgear/untarhelmet_diff_black.bundle",
+				"AddGearBlack/Headgear/untarhelmet_nrm_black.bundle"
+            ]
+        },
+		{
+            "key": "AddGearBlack/Headgear/untarhelmet_mesh_black.bundle",
+            "dependencyKeys": [
+                "AddGearBlack/Headgear/untarhelmet_materials_black.bundle"
+            ]
+        },
+		{
+            "key": "AddGearBlack/Headgear/untarhelmet_black.bundle",
+            "dependencyKeys": [
+                "AddGearBlack/Headgear/untarhelmet_mesh_black.bundle",
+				"assets/commonassets/physics/physicsmaterials.bundle",
+				"AddGearBlack/Headgear/untarhelmet_materials_black.bundle"
+            ]
+        },
+		{
+            "key": "AddGearBlack/Headgear/panama_black.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+				"assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        },
+		{
+            "key": "AddGearBlack/Headgear/doorkicker_black.bundle",
+            "dependencyKeys": [
+				"assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        },
+		{
+            "key": "AddGearBlack/MiscGear/airframe_chops_ears_textures_black.bundle",
+            "dependencyKeys": []
+        },
+		{
+            "key": "AddGearBlack/MiscGear/airframe_chops_mesh_black.bundle",
+            "dependencyKeys": [
+                "shaders",
+				"AddGearBlack/MiscGear/airframe_chops_ears_textures_black.bundle",
+                "cubemaps",
+				"assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        },
+		{
+            "key": "AddGearBlack/MiscGear/airframe_ears_mesh_black.bundle",
+            "dependencyKeys": [
+                "shaders",
+				"AddGearBlack/MiscGear/airframe_chops_ears_textures_black.bundle",
+                "cubemaps",
+				"assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        },
+		{
+            "key": "AddGearBlack/MiscGear/ops_core_armor_textures_black.bundle",
+            "dependencyKeys": []
+        },
+		{
+            "key": "AddGearBlack/MiscGear/ops_core_mandible_mesh_black.bundle",
+            "dependencyKeys": [
+                "shaders",
+				"cubemaps",
+				"AddGearBlack/MiscGear/ops_core_armor_textures_black.bundle",
+				"assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        },
+		{
+            "key": "AddGearBlack/MiscGear/slaap_black.bundle",
+            "dependencyKeys": [
+                "shaders",
+				"cubemaps",
+				"assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        },
+		{
+            "key": "AddGearBlack/MiscGear/tk_heavy_trooper_black.bundle",
+            "dependencyKeys": [
+                "shaders",
+				"cubemaps",
+				"assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        },
+		{
+            "key": "AddGearBlack/MiscGear/gpnvg18_black.bundle",
+            "dependencyKeys": [
+                "shaders",
+				"cubemaps",
+				"assets/content/items/equipment/glasses_6b34/glasses_6b34_glass_textures",
+				"assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        },
+		{
+            "key": "AddGearBlack/Rigs/tacteccarrier_black.bundle",
+            "dependencyKeys": [
+                "shaders",
+				"cubemaps",
+				"assets/commonassets/physics/physicsmaterials.bundle",
+				"assets/content/characters/character/skeleton.bundle"
+            ]
+        },
+		{
+            "key": "AddGearBlack/Rigs/anaalpha_black.bundle",
+            "dependencyKeys": [
+                "shaders",
+				"cubemaps",
+				"assets/commonassets/physics/physicsmaterials.bundle",
+				"assets/content/characters/character/skeleton.bundle"
+            ]
+        },
+		{
+            "key": "AddGearBlack/Rigs/anam1_black.bundle",
+            "dependencyKeys": [
+                "shaders",
+				"cubemaps",
+				"assets/commonassets/physics/physicsmaterials.bundle",
+				"assets/content/characters/character/skeleton.bundle"
+            ]
+        },
+		{
+            "key": "AddGearBlack/Rigs/a18_black.bundle",
+            "dependencyKeys": [
+                "shaders",
+				"cubemaps",
+				"assets/commonassets/physics/physicsmaterials.bundle",
+				"assets/content/characters/character/skeleton.bundle"
+            ]
+        },
+		{
+            "key": "AddGearBlack/Rigs/arscpc_black.bundle",
+            "dependencyKeys": [
+                "shaders",
+				"cubemaps",
+				"assets/commonassets/physics/physicsmaterials.bundle",
+				"assets/content/characters/character/skeleton.bundle"
+            ]
+        },
+		{
+            "key": "AddGearBlack/Rigs/anam2_black.bundle",
+            "dependencyKeys": [
+                "shaders",
+				"cubemaps",
+				"assets/commonassets/physics/physicsmaterials.bundle",
+				"assets/content/characters/character/skeleton.bundle"
+            ]
+        },
+		{
+            "key": "AddGearBlack/Rigs/cryeavs_black.bundle",
+            "dependencyKeys": [
+                "shaders",
+				"cubemaps",
+				"assets/commonassets/physics/physicsmaterials.bundle",
+				"assets/content/characters/character/skeleton.bundle"
+            ]
+        },
+		{
+            "key": "AddGearBlack/Rigs/d3crx_black.bundle",
+            "dependencyKeys": [
+                "shaders",
+				"cubemaps",
+				"assets/commonassets/physics/physicsmaterials.bundle",
+				"assets/content/characters/character/skeleton.bundle"
+            ]
+        },
+		{
+            "key": "AddGearBlack/Rigs/lbt1961a_black.bundle",
+            "dependencyKeys": [
+                "shaders",
+				"cubemaps",
+				"assets/commonassets/physics/physicsmaterials.bundle",
+				"assets/content/characters/character/skeleton.bundle"
+            ]
+        },
+		{
+            "key": "AddGearBlack/Rigs/tv110_black.bundle",
+            "dependencyKeys": [
+                "shaders",
+				"cubemaps",
+				"assets/commonassets/physics/physicsmaterials.bundle",
+				"assets/content/characters/character/skeleton.bundle"
+            ]
+        },
+		{
+            "key": "AddGearBlack/Rigs/tv109_black.bundle",
+            "dependencyKeys": [
+                "shaders",
+				"cubemaps",
+				"assets/commonassets/physics/physicsmaterials.bundle",
+				"assets/content/characters/character/skeleton.bundle"
+            ]
+        },
+		{
+            "key": "AddGearBlack/Rigs/avs_mbav.bundle",
+            "dependencyKeys": [
+                "shaders",
+				"cubemaps",
+				"assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        },
+		{
+            "key": "AddGearBlack/Rigs/umka_black.bundle",
+            "dependencyKeys": [
+                "shaders",
+				"cubemaps",
+				"assets/commonassets/physics/physicsmaterials.bundle",
+				"assets/content/characters/character/skeleton.bundle"
+            ]
+        },
+		{
+            "key": "AddGearBlack/Backpacks/attack2_black.bundle",
+            "dependencyKeys": [
+                "cubemaps",
+                "shaders",
+				"assets/commonassets/physics/physicsmaterials.bundle",
+				"assets/content/characters/character/skeleton.bundle"
+            ]
+        },
+		{
+            "key": "AddGearBlack/Backpacks/berkut_black.bundle",
+            "dependencyKeys": [
+                "cubemaps",
+                "shaders",
+				"assets/commonassets/physics/physicsmaterials.bundle",
+				"assets/content/characters/character/skeleton.bundle"
+            ]
+        },
+		{
+            "key": "AddGearBlack/Backpacks/g2gunslinger_black.bundle",
+            "dependencyKeys": [
+                "cubemaps",
+                "shaders",
+				"assets/commonassets/physics/physicsmaterials.bundle",
+				"assets/content/characters/character/skeleton.bundle"
+            ]
+		},
+        {
+            "key": "AddGearBlack/Facecover/shemaghV1_black.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+				"assets/commonassets/physics/physicsmaterials.bundle",
+				"assets/content/characters/character/skeleton.bundle"
+            ]
+        },
+        {
+            "key": "AddGearBlack/Facecover/shemaghV2_black.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+				"assets/commonassets/physics/physicsmaterials.bundle",
+				"assets/content/characters/character/skeleton.bundle"
+            ]
+        },
+        {
+            "key": "AddGearBlack/Headgear/cap_black_textures.bundle",
+            "dependencyKeys": []
+        },
+        {
+            "key": "AddGearBlack/Headgear/cap_black.bundle",
+            "dependencyKeys": [
+                "shaders",
+				"AddGearBlack/Headgear/cap_black_textures.bundle",
+                "cubemaps",
+				"assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        },
+        {
+            "key": "AddGearBlack/Headgear/uxpro_black.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+				"assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        },
+        {
+            "key": "AddGearBlack/Headgear/fleece_black.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+				"assets/commonassets/physics/physicsmaterials.bundle",
+				"assets/content/characters/character/skeleton.bundle"
+            ]
+        },
+        {
+            "key": "AddGearBlack/Headgear/cap_backwards.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+				"assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        },
+        {
+            "key": "AddGearBlack/ArmoredVests/thor_carrier_full.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+				"assets/commonassets/physics/physicsmaterials.bundle",
+				"assets/content/characters/character/skeleton.bundle"
+            ]
+        },
+        {
+            "key": "AddGearBlack/Backpacks/sling_bag.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+				"assets/commonassets/physics/physicsmaterials.bundle",
+				"assets/content/characters/character/skeleton.bundle"
+            ]
+        },
+        {
+            "key": "AddGearBlack/Backpacks/hazard4_drawbridge.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+				"assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        },
+        {
+            "key": "AddGearBlack/Facecover/welding_mask.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+				"assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        }
+    ]
+}
