@@ -1,0 +1,10 @@
+{
+    "name": "AdditionalGear - Black Module",
+    "author": "JustNU",
+    "version": "1.2.2",
+    "license": "NCSA",
+    "main": "package.js",
+	"dependencies": {
+        "A_JustNUCore": "1.0.0"
+    }
+}
